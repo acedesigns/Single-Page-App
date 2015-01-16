@@ -1,6 +1,7 @@
 <?php
 
 require_once '/includes/constance.php';
+// http://www.sitepoint.com/role-based-access-control-in-php/
 
 Class Database {
 
