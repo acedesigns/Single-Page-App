@@ -1,6 +1,12 @@
 Single-Page-App
 ===============
 
+[![NPM Version][npm-image]][npm-url]
+[![NPM Downloads][downloads-image]][downloads-url]
+[![Node.js Version][node-version-image]][node-version-url]
+[![Build Status][travis-image]][travis-url]
+[![Test Coverage][coveralls-image]][coveralls-url]
+
 My Long awaited Single Page App Written in [Angulajs](https://angularjs.org/), [Object Oriented PHP using PDO](http://php.net/manual/en/intro.pdo.php), CSS HTML, and Javascript.
 I make use of the [MySql Sakila Database](http://dev.mysql.com/doc/sakila/en/)
 
