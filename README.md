@@ -19,6 +19,7 @@ One can then use a database like MongoDB with Mongoose (for modeling) to provide
 
 ####Further Tuts
 -[Node-Login](https://github.com/braitsch/node-login)
+
 -[Easy Node Authentication](https://github.com/scotch-io/easy-node-authentication)
 
 -[Two way data binding angularjs tutorial](http://codeforgeek.com/2014/09/two-way-data-binding-angularjs/)
