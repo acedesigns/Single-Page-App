@@ -1,5 +1,4 @@
 <?php
-
 	require_once "php/classes/database.php";
 	$database->getJsonData();
 ?>
